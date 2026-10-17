@@ -1,0 +1,73 @@
+--- PAGE 1 ---
+4
+Summary of marks
+Component
+Description
+Marks
+Total Practical Marks: 70
+Model development
+Develop a machine learning or deep learning
+model to solve a cybersecurity-related prob-
+lem using a selected dataset
+20
+Dataset preparation
+Correctly divide the dataset into training, val-
+idation, and testing sets
+5
+Evaluation metric logging
+Log relevant evaluation metrics during train-
+ing (e.g. accuracy, precision, recall, F1-score,
+AUC-ROC, loss)
+15
+Metric visualization
+Plot relevant metric graphs such as ROC
+curves, precision–recall curves, confusion ma-
+trices, and loss curves
+15
+Desktop application
+Expose the model via an API and integrate it
+into a basic desktop application for practical
+use
+15
+Early stopping
+Implement patience-based early stopping to
+prevent overfitting during training
+5
+Additional features
+Bonus marks for advanced techniques like XAI
+or hosting a model
+10
+Total Theory Marks: 30
+Model scenario
+Describe the model scenario and explain its
+relevance within the cybersecurity domain
+3
+Model architecture
+Explain the model architecture, including lay-
+ers, activation functions, and justification for
+the chosen design
+10
+Model result analysis
+Analyse the model’s performance using eval-
+uation metrics and graphs, and discuss its ef-
+fectiveness
+10
+Real-world use of models
+Evaluate the real-world use of machine learn-
+ing models in cybersecurity, supported by aca-
+demic or industry references
+7
+Deductions (if applicable)
+Missing notebook outputs
+Figures, metrics, or results not visible within
+the Jupyter Notebook
+-10
+Poor version control
+Lack of consistent use of GitHub or equivalent
+source control
+-10
+Total for this project: 100
+Rubric
+Student1
+Student2
+Comments
